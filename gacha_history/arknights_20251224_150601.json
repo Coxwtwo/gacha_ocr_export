@@ -1,0 +1,256 @@
+{
+    "info": {
+        "game_id": "arknights",
+        "game_name": "明日方舟",
+        "export_timestamp": 1766559961,
+        "export_app": "ocr_export",
+        "export_app_version": "v0.0.1",
+        "export_time": "2025-12-24 15:06:01",
+        "uid": "679034235",
+        "timezone": 8,
+        "lang": "zh-cn",
+        "total_entries": 40
+    },
+    "data": [
+        {
+            "item": "香草",
+            "pool": "以风雪为誓",
+            "time": "2025-11-14 11:43:46",
+            "is_valid": true
+        },
+        {
+            "item": "芬",
+            "pool": "以风雪为誓",
+            "time": "2025-11-13 11:34:56",
+            "is_valid": true
+        },
+        {
+            "item": "酸糖",
+            "pool": "以风雪为誓",
+            "time": "2025-11-12 10:37:07",
+            "is_valid": true
+        },
+        {
+            "item": "验风",
+            "pool": "以风雪为誓",
+            "time": "2025-11-11 10:49:29",
+            "is_valid": false
+        },
+        {
+            "item": "古米",
+            "pool": "以风雪为誓",
+            "time": "2025-11-10 10:56:13",
+            "is_valid": true
+        },
+        {
+            "item": "月见夜",
+            "pool": "以风雪为誓",
+            "time": "2025-11-10 10:56:13",
+            "is_valid": true
+        },
+        {
+            "item": "露托",
+            "pool": "以风雪为誓",
+            "time": "2025-11-10 10:56:13",
+            "is_valid": true
+        },
+        {
+            "item": "空爆",
+            "pool": "以风雪为誓",
+            "time": "2025-11-10 10:56:13",
+            "is_valid": true
+        },
+        {
+            "item": "调香师",
+            "pool": "以风雪为誓",
+            "time": "2025-11-10 10:56:13",
+            "is_valid": true
+        },
+        {
+            "item": "卡缇",
+            "pool": "以风雪为誓",
+            "time": "2025-11-10 10:56:13",
+            "is_valid": true
+        },
+        {
+            "item": "冬时",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:17",
+            "is_valid": true
+        },
+        {
+            "item": "米格鲁",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:17",
+            "is_valid": true
+        },
+        {
+            "item": "真言",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:17",
+            "is_valid": true
+        },
+        {
+            "item": "倒羽",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:17",
+            "is_valid": false
+        },
+        {
+            "item": "空爆",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": true
+        },
+        {
+            "item": "米格鲁",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": true
+        },
+        {
+            "item": "休谋斯",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": false
+        },
+        {
+            "item": "玫兰莎",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": true
+        },
+        {
+            "item": "流星",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": true
+        },
+        {
+            "item": "松果",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": true
+        },
+        {
+            "item": "渡桥",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": true
+        },
+        {
+            "item": "铀躁",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": false
+        },
+        {
+            "item": "露托",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": true
+        },
+        {
+            "item": "空爆",
+            "pool": "空白频段",
+            "time": "2025-10-09 12:00:10",
+            "is_valid": true
+        },
+        {
+            "item": "杜宾",
+            "pool": "空白频段",
+            "time": "2025-10-09 11:59:53",
+            "is_valid": true
+        },
+        {
+            "item": "空爆",
+            "pool": "空白频段",
+            "time": "2025-10-09 11:59:53",
+            "is_valid": true
+        },
+        {
+            "item": "过I折本",
+            "pool": "空白频段",
+            "time": "2025-10-09 11:59:53",
+            "is_valid": false
+        },
+        {
+            "item": "冬时",
+            "pool": "空白频段",
+            "time": "2025-10-09 11:59:53",
+            "is_valid": true
+        },
+        {
+            "item": "验风",
+            "pool": "空白频段",
+            "time": "2025-10-09 11:59:53",
+            "is_valid": false
+        },
+        {
+            "item": "清道夫",
+            "pool": "空白频段",
+            "time": "2025-10-09 11:59:53",
+            "is_valid": true
+        },
+        {
+            "item": "",
+            "pool": "",
+            "time": "2025-09-20 10:34:53",
+            "is_valid": false
+        },
+        {
+            "item": "罗比车塔",
+            "pool": "未致蒙尘",
+            "time": "2025-09-20 10:34:48",
+            "is_valid": false
+        },
+        {
+            "item": "障索",
+            "pool": "未致蒙尘",
+            "time": "2025-09-20 09:12:22",
+            "is_valid": false
+        },
+        {
+            "item": "地有灵",
+            "pool": "未致蒙尘",
+            "time": "2025-09-20 09:12:16",
+            "is_valid": false
+        },
+        {
+            "item": "寻澜",
+            "pool": "标准寻访",
+            "time": "2025-09-11 16:28:00",
+            "is_valid": false
+        },
+        {
+            "item": "古米",
+            "pool": "标准寻访",
+            "time": "2025-09-11 16:27:55",
+            "is_valid": false
+        },
+        {
+            "item": "芬",
+            "pool": "标准寻访",
+            "time": "2025-09-11 16:27:51",
+            "is_valid": false
+        },
+        {
+            "item": "兰",
+            "pool": "标准寻访",
+            "time": "2025-09-11 16:27:47",
+            "is_valid": false
+        },
+        {
+            "item": "验风",
+            "pool": "标准寻访",
+            "time": "2025-09-11 16:27:41",
+            "is_valid": false
+        },
+        {
+            "item": "斑点",
+            "pool": "标准寻访",
+            "time": "2025-09-11 16:27:32",
+            "is_valid": false
+        }
+    ]
+}
